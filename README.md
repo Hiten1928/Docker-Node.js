@@ -2,11 +2,11 @@
 
 The image can be pulled by command:
 
-docker pull hiten3008/node
+  docker pull hiten3008/node
 
 After successfully pulling the image, the build can be triggered using :
 
-docker image build hiten3008/node:latest
+  docker image build hiten3008/node:latest
 
 The application listens on port 80. So, the default localhost is 80.
 
